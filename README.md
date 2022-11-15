@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Owais Khan</h1>
 <h3 align="center">A passionate Data Insighter</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966">
+<img align="right" alt="Coding" width="400" 
+src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🔭 I’m currently working on **Data Science**
 
